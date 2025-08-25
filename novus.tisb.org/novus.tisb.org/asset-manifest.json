@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30ea7657.css",
+    "main.js": "/static/js/main.a63c7d14.js",
+    "static/js/453.6fa342d8.chunk.js": "/static/js/453.6fa342d8.chunk.js",
+    "static/media/Robot-Image.png": "/static/media/Robot-Image.baf5c203dec551ddc9af.png",
+    "static/media/Scoresheet.pdf": "/static/media/Scoresheet.490bf29747191f3053eb.pdf",
+    "static/media/Cocogoose_Pro.ttf": "/static/media/Cocogoose_Pro.e41cd046ccc73ff8863f.ttf",
+    "static/media/TISB-Logo-DarkBG.png": "/static/media/TISB-Logo-DarkBG.034e8bf082f5ed2d22dd.png",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/OpenInnovationLogoBg.png": "/static/media/OpenInnovationLogoBg.5c90d143d7b421d34775.png",
+    "static/media/NovusLogoMain.png": "/static/media/NovusLogoMain.f6f5793589fc8e4eab93.png",
+    "static/media/Heavitas.ttf": "/static/media/Heavitas.5c1338969ac9e05855a4.ttf",
+    "static/media/Roadster Rulebook.pdf": "/static/media/Roadster Rulebook.d153a2d8f53aa94393e1.pdf",
+    "static/media/TintedBkg4.jpeg": "/static/media/TintedBkg4.54017dbdeb143ee73873.jpeg",
+    "static/media/RoadsterLogoBg.png": "/static/media/RoadsterLogoBg.1a341ef1e00355663e97.png",
+    "static/media/ComicBkg.jpeg": "/static/media/ComicBkg.f6de1392abf54fe6adff.jpeg",
+    "static/media/TheBoldFont.ttf": "/static/media/TheBoldFont.702ffedb8c929d86dc69.ttf",
+    "index.html": "/index.html",
+    "main.30ea7657.css.map": "/static/css/main.30ea7657.css.map",
+    "main.a63c7d14.js.map": "/static/js/main.a63c7d14.js.map",
+    "453.6fa342d8.chunk.js.map": "/static/js/453.6fa342d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea7657.css",
+    "static/js/main.a63c7d14.js"
+  ]
+}
